@@ -13,6 +13,7 @@ int main()
       a=a/10; 
   }
   cout<<c;
+  return 0;
   }
   
 
